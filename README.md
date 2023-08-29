@@ -2,6 +2,10 @@ This is a [Plasmo extension](https://docs.plasmo.com/) project bootstrapped with
 
 ## Getting Started
 
+
+https://github.com/aryanknight/web-assignment/assets/65778520/cd61620c-e4ce-4a9c-9767-7f0499930fc6
+
+
 First, run the development server:
 
 ```bash
