@@ -24,7 +24,6 @@ function IndexPopup() {
     }catch(err){
       alert("Error Occurred")
       setBtnState(false);
-      console.log(err);
     }
   }
 
